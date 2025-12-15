@@ -360,10 +360,6 @@ export function Thread() {
                     damping: 30,
                   }}
                 >
-                  <LangGraphLogoSVG
-                    width={32}
-                    height={32}
-                  />
                   <span className="text-xl font-semibold tracking-tight">
                     Bedrock
                   </span>
